@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297587116027",
+    "project_id": "devnet-1c822",
+    "storage_bucket": "devnet-1c822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297587116027:android:9ed58b86bda8b8380ded5e",
+        "android_client_info": {
+          "package_name": "com.devnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297587116027-5rq3fvau4d593on5mluv8m7crc4gd9b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEfPZtFbgTPp7bHklv_WLvqAvvF5BLAZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297587116027-5rq3fvau4d593on5mluv8m7crc4gd9b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
